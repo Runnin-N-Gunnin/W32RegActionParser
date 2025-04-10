@@ -20,7 +20,7 @@ The Win32_RegistryAction WMI class sets up registry information that the applica
 
 ## Requirements:
 
-- Windows 7 or 10
+- Windows 7, 10 or 11
 
 ## Download:
 
